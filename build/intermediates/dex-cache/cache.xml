@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Teejay\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\Teejay\AndroidStudioProjects\ReplayAndroidApp\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_99007415088d179e817e917104a4c0f651c052c9.jar" />
+    </item>
+    <item
+        jar="C:\Users\Teejay\AndroidStudioProjects\ReplayAndroidApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\Teejay\AndroidStudioProjects\ReplayAndroidApp\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_d7671ed26fe5684fdff6769eaef97c78f1cbb9f5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Teejay\AndroidStudioProjects\ReplayAndroidApp\app\libs\pyrolite.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="d8cbecf260396535856e4c6be964eac4cdc444a0">
+        <dex dex="C:\Users\Teejay\AndroidStudioProjects\ReplayAndroidApp\app\build\intermediates\pre-dexed\debug\pyrolite_040fb10192e889fa7c1c7d1342aa7f452832b640.jar" />
+    </item>
+    <item
+        jar="C:\Users\Teejay\AndroidStudioProjects\ReplayAndroidApp\app\build\intermediates\exploded-aar\com.github.navasmdc\MaterialDesign\1.5\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="12b228574de7977e56e41cbfb385b1463bbdb41a">
+        <dex dex="C:\Users\Teejay\AndroidStudioProjects\ReplayAndroidApp\app\build\intermediates\pre-dexed\debug\com.github.navasmdc-MaterialDesign-1.5_aa84aeacd94bc333289648986170d07d5564f50b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Teejay\AndroidStudioProjects\ReplayAndroidApp\app\libs\android-support-v7-recyclerview.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="7c0018e9838fc8c654c6fa83a110c4600b46febd">
+        <dex dex="C:\Users\Teejay\AndroidStudioProjects\ReplayAndroidApp\app\build\intermediates\pre-dexed\debug\android-support-v7-recyclerview_ee993253e91d992420c56fe0c3a78c5fb7eee103.jar" />
+    </item>
+    <item
+        jar="C:\Users\Teejay\AndroidStudioProjects\ReplayAndroidApp\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\Teejay\AndroidStudioProjects\ReplayAndroidApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_a453479257092ff496772a2b38acc10261bbfe79.jar" />
+    </item>
+    <item
+        jar="C:\Users\Teejay\AndroidStudioProjects\ReplayAndroidApp\app\libs\acra-4.6.1.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="60a854db6e9445f56efc72bfb3da39f583eb6e89">
+        <dex dex="C:\Users\Teejay\AndroidStudioProjects\ReplayAndroidApp\app\build\intermediates\pre-dexed\debug\acra-4.6.1_0181830d0c88809057c5ca1fdaed1f635cd2fd9f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Teejay\AndroidStudioProjects\ReplayAndroidApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\Teejay\AndroidStudioProjects\ReplayAndroidApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_0970811c8b08711dcf98f851e08e44952b516178.jar" />
+    </item>
+    <item
+        jar="C:\Users\Teejay\AndroidStudioProjects\ReplayAndroidApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\Teejay\AndroidStudioProjects\ReplayAndroidApp\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_b4d7fc23341cc90cde62d586311f8953dd25610c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Teejay\AndroidStudioProjects\ReplayAndroidApp\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\Teejay\AndroidStudioProjects\ReplayAndroidApp\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_ddb3d6e28cd71814b8ae3a493bbc39eaf50bc9ee.jar" />
+    </item>
+    <item
+        jar="C:\Users\Teejay\AndroidStudioProjects\ReplayAndroidApp\app\libs\nineoldandroids-2.4.0.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="59f19e43354d32de831379c23ce03bb259a4c2b7">
+        <dex dex="C:\Users\Teejay\AndroidStudioProjects\ReplayAndroidApp\app\build\intermediates\pre-dexed\debug\nineoldandroids-2.4.0_28ae33153a86e40218b69e80fb6ad02fee2fd383.jar" />
+    </item>
+    <item
+        jar="C:\Users\Teejay\AndroidStudioProjects\ReplayAndroidApp\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="C:\Users\Teejay\AndroidStudioProjects\ReplayAndroidApp\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-23.4.0_f37439a00ff3257a6ebd7299e6798da5b59b23ab.jar" />
+    </item>
+
+</items>

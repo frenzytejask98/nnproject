@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:materialdesign="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/ScrollView01"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:scrollbars="vertical" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/mainPageTitleTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:text="@string/timing_label"
+            android:textColor="@color/brown"
+            android:textSize="@dimen/main_title_text_size"
+            android:textStyle="bold" />
+
+        <Spinner
+            android:id="@+id/settings_timing"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:background="@color/lightorange"
+            android:entries="@array/timing"
+            android:padding="10dp"
+            android:prompt="@string/timing_label" />
+
+        <TextView
+            android:id="@+id/selectServerTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:text="@string/server_label"
+            android:textColor="@color/brown"
+            android:textSize="@dimen/main_title_text_size"
+            android:textStyle="bold" />
+
+        <EditText
+            android:id="@+id/settings_server"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:hint="@string/server_hint"
+            android:padding="10dp"
+            android:text="@string/server_replay" />
+
+        <TextView
+            android:id="@+id/selectIterationTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:text="@string/select_iteration"
+            android:textColor="@color/brown"
+            android:textSize="@dimen/main_title_text_size"
+            android:textStyle="bold" />
+
+        <Spinner
+            android:id="@+id/settings_iteration"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:background="@color/lightorange"
+            android:entries="@array/iteration"
+            android:padding="10dp"
+            android:prompt="@string/iteration_2" />
+
+        <!-- <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="48dp" >
+
+            <com.gc.materialdesign.views.Slider
+                android:id="@+id/sliderNumber"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:background="#1E88E5"
+                materialdesign:max="3"
+                materialdesign:min="1"
+                materialdesign:showNumberIndicator="true" />
+        </RelativeLayout> -->
+
+        <CheckBox
+            android:id="@+id/selectRandomCheckBox"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="start"
+            android:padding="10dp"
+            android:text="@string/select_random" />
+        
+        <CheckBox
+            android:id="@+id/forceAddHeaderCheckBox"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="start"
+            android:padding="10dp"
+            android:text="@string/force_add_header" />
+        
+        <CheckBox
+            android:id="@+id/selectTestCheckBox"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="start"
+            android:padding="10dp"
+            android:text="@string/select_test" />
+
+        <com.gc.materialdesign.views.ButtonFlat
+            android:id="@+id/installCertButton"
+            android:layout_width="wrap_content"
+            android:layout_height="50sp"
+            android:layout_gravity="center"
+            android:layout_marginBottom="10dp"
+            android:background="@color/darkorange"
+            android:text="@string/install_cert_button"
+            android:textSize="15sp" />
+
+    </LinearLayout>
+
+</ScrollView>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="pyrolite">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/pyrolite.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

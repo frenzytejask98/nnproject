@@ -1,0 +1,226 @@
+[
+    {
+        "merged": "C:\\Users\\Teejay\\AndroidStudioProjects\\ReplayAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Teejay\\AndroidStudioProjects\\ReplayAndroidApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Teejay\\AndroidStudioProjects\\ReplayAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Teejay\\AndroidStudioProjects\\ReplayAndroidApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Teejay\\AndroidStudioProjects\\ReplayAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shadow_down.xml",
+        "source": "C:\\Users\\Teejay\\AndroidStudioProjects\\ReplayAndroidApp\\app\\build\\intermediates\\exploded-aar\\com.github.navasmdc\\MaterialDesign\\1.5\\res\\drawable\\shadow_down.xml"
+    },
+    {
+        "merged": "C:\\Users\\Teejay\\AndroidStudioProjects\\ReplayAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Teejay\\AndroidStudioProjects\\ReplayAndroidApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Teejay\\AndroidStudioProjects\\ReplayAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\Teejay\\AndroidStudioProjects\\ReplayAndroidApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Teejay\\AndroidStudioProjects\\ReplayAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\app_icon.png",
+        "source": "C:\\Users\\Teejay\\AndroidStudioProjects\\ReplayAndroidApp\\app\\src\\main\\res\\drawable\\app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Teejay\\AndroidStudioProjects\\ReplayAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\arrow_right.png",
+        "source": "C:\\Users\\Teejay\\AndroidStudioProjects\\ReplayAndroidApp\\app\\src\\main\\res\\drawable\\arrow_right.png"
+    },
+    {
+        "merged": "C:\\Users\\Teejay\\AndroidStudioProjects\\ReplayAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\skype.png",
+        "source": "C:\\Users\\Teejay\\AndroidStudioProjects\\ReplayAndroidApp\\app\\src\\main\\res\\drawable\\skype.png"
+    },
+    {
+        "merged": "C:\\Users\\Teejay\\AndroidStudioProjects\\ReplayAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_switch_ball_uncheck.xml",
+        "source": "C:\\Users\\Teejay\\AndroidStudioProjects\\ReplayAndroidApp\\app\\build\\intermediates\\exploded-aar\\com.github.navasmdc\\MaterialDesign\\1.5\\res\\drawable\\background_switch_ball_uncheck.xml"
+    },
+    {
+        "merged": "C:\\Users\\Teejay\\AndroidStudioProjects\\ReplayAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_checkbox_uncheck.xml",
+        "source": "C:\\Users\\Teejay\\AndroidStudioProjects\\ReplayAndroidApp\\app\\build\\intermediates\\exploded-aar\\com.github.navasmdc\\MaterialDesign\\1.5\\res\\drawable\\background_checkbox_uncheck.xml"
+    },
+    {
+        "merged": "C:\\Users\\Teejay\\AndroidStudioProjects\\ReplayAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_button_float.xml",
+        "source": "C:\\Users\\Teejay\\AndroidStudioProjects\\ReplayAndroidApp\\app\\build\\intermediates\\exploded-aar\\com.github.navasmdc\\MaterialDesign\\1.5\\res\\drawable\\background_button_float.xml"
+    },
+    {
+        "merged": "C:\\Users\\Teejay\\AndroidStudioProjects\\ReplayAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_checkbox_check.xml",
+        "source": "C:\\Users\\Teejay\\AndroidStudioProjects\\ReplayAndroidApp\\app\\build\\intermediates\\exploded-aar\\com.github.navasmdc\\MaterialDesign\\1.5\\res\\drawable\\background_checkbox_check.xml"
+    },
+    {
+        "merged": "C:\\Users\\Teejay\\AndroidStudioProjects\\ReplayAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_button_rectangle.xml",
+        "source": "C:\\Users\\Teejay\\AndroidStudioProjects\\ReplayAndroidApp\\app\\build\\intermediates\\exploded-aar\\com.github.navasmdc\\MaterialDesign\\1.5\\res\\drawable\\background_button_rectangle.xml"
+    },
+    {
+        "merged": "C:\\Users\\Teejay\\AndroidStudioProjects\\ReplayAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Teejay\\AndroidStudioProjects\\ReplayAndroidApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Teejay\\AndroidStudioProjects\\ReplayAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "C:\\Users\\Teejay\\AndroidStudioProjects\\ReplayAndroidApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Teejay\\AndroidStudioProjects\\ReplayAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shadow_right.xml",
+        "source": "C:\\Users\\Teejay\\AndroidStudioProjects\\ReplayAndroidApp\\app\\build\\intermediates\\exploded-aar\\com.github.navasmdc\\MaterialDesign\\1.5\\res\\drawable\\shadow_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\Teejay\\AndroidStudioProjects\\ReplayAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Teejay\\AndroidStudioProjects\\ReplayAndroidApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Teejay\\AndroidStudioProjects\\ReplayAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Teejay\\AndroidStudioProjects\\ReplayAndroidApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Teejay\\AndroidStudioProjects\\ReplayAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Teejay\\AndroidStudioProjects\\ReplayAndroidApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Teejay\\AndroidStudioProjects\\ReplayAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_transparent.xml",
+        "source": "C:\\Users\\Teejay\\AndroidStudioProjects\\ReplayAndroidApp\\app\\build\\intermediates\\exploded-aar\\com.github.navasmdc\\MaterialDesign\\1.5\\res\\drawable\\background_transparent.xml"
+    },
+    {
+        "merged": "C:\\Users\\Teejay\\AndroidStudioProjects\\ReplayAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Teejay\\AndroidStudioProjects\\ReplayAndroidApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Teejay\\AndroidStudioProjects\\ReplayAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Teejay\\AndroidStudioProjects\\ReplayAndroidApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Teejay\\AndroidStudioProjects\\ReplayAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_button.9.png",
+        "source": "C:\\Users\\Teejay\\AndroidStudioProjects\\ReplayAndroidApp\\app\\build\\intermediates\\exploded-aar\\com.github.navasmdc\\MaterialDesign\\1.5\\res\\drawable\\background_button.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Teejay\\AndroidStudioProjects\\ReplayAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\arrow_bottom.png",
+        "source": "C:\\Users\\Teejay\\AndroidStudioProjects\\ReplayAndroidApp\\app\\src\\main\\res\\drawable\\arrow_bottom.png"
+    },
+    {
+        "merged": "C:\\Users\\Teejay\\AndroidStudioProjects\\ReplayAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\Teejay\\AndroidStudioProjects\\ReplayAndroidApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Teejay\\AndroidStudioProjects\\ReplayAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Teejay\\AndroidStudioProjects\\ReplayAndroidApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Teejay\\AndroidStudioProjects\\ReplayAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Teejay\\AndroidStudioProjects\\ReplayAndroidApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Teejay\\AndroidStudioProjects\\ReplayAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "C:\\Users\\Teejay\\AndroidStudioProjects\\ReplayAndroidApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Teejay\\AndroidStudioProjects\\ReplayAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\viber.png",
+        "source": "C:\\Users\\Teejay\\AndroidStudioProjects\\ReplayAndroidApp\\app\\src\\main\\res\\drawable\\viber.png"
+    },
+    {
+        "merged": "C:\\Users\\Teejay\\AndroidStudioProjects\\ReplayAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Teejay\\AndroidStudioProjects\\ReplayAndroidApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Teejay\\AndroidStudioProjects\\ReplayAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gdrive.png",
+        "source": "C:\\Users\\Teejay\\AndroidStudioProjects\\ReplayAndroidApp\\app\\src\\main\\res\\drawable\\gdrive.png"
+    },
+    {
+        "merged": "C:\\Users\\Teejay\\AndroidStudioProjects\\ReplayAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_progress.xml",
+        "source": "C:\\Users\\Teejay\\AndroidStudioProjects\\ReplayAndroidApp\\app\\build\\intermediates\\exploded-aar\\com.github.navasmdc\\MaterialDesign\\1.5\\res\\drawable\\background_progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\Teejay\\AndroidStudioProjects\\ReplayAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Teejay\\AndroidStudioProjects\\ReplayAndroidApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Teejay\\AndroidStudioProjects\\ReplayAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_progressbar.xml",
+        "source": "C:\\Users\\Teejay\\AndroidStudioProjects\\ReplayAndroidApp\\app\\src\\main\\res\\drawable\\custom_progressbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Teejay\\AndroidStudioProjects\\ReplayAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_action_accept.png",
+        "source": "C:\\Users\\Teejay\\AndroidStudioProjects\\ReplayAndroidApp\\app\\src\\main\\res\\drawable\\ic_action_accept.png"
+    },
+    {
+        "merged": "C:\\Users\\Teejay\\AndroidStudioProjects\\ReplayAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Teejay\\AndroidStudioProjects\\ReplayAndroidApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Teejay\\AndroidStudioProjects\\ReplayAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gvoice.png",
+        "source": "C:\\Users\\Teejay\\AndroidStudioProjects\\ReplayAndroidApp\\app\\src\\main\\res\\drawable\\gvoice.png"
+    },
+    {
+        "merged": "C:\\Users\\Teejay\\AndroidStudioProjects\\ReplayAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\netflix.png",
+        "source": "C:\\Users\\Teejay\\AndroidStudioProjects\\ReplayAndroidApp\\app\\src\\main\\res\\drawable\\netflix.png"
+    },
+    {
+        "merged": "C:\\Users\\Teejay\\AndroidStudioProjects\\ReplayAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Teejay\\AndroidStudioProjects\\ReplayAndroidApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Teejay\\AndroidStudioProjects\\ReplayAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_action_play.png",
+        "source": "C:\\Users\\Teejay\\AndroidStudioProjects\\ReplayAndroidApp\\app\\src\\main\\res\\drawable\\ic_action_play.png"
+    },
+    {
+        "merged": "C:\\Users\\Teejay\\AndroidStudioProjects\\ReplayAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Teejay\\AndroidStudioProjects\\ReplayAndroidApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Teejay\\AndroidStudioProjects\\ReplayAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_checkbox.xml",
+        "source": "C:\\Users\\Teejay\\AndroidStudioProjects\\ReplayAndroidApp\\app\\build\\intermediates\\exploded-aar\\com.github.navasmdc\\MaterialDesign\\1.5\\res\\drawable\\background_checkbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\Teejay\\AndroidStudioProjects\\ReplayAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Teejay\\AndroidStudioProjects\\ReplayAndroidApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Teejay\\AndroidStudioProjects\\ReplayAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\expandable.xml",
+        "source": "C:\\Users\\Teejay\\AndroidStudioProjects\\ReplayAndroidApp\\app\\src\\main\\res\\drawable\\expandable.xml"
+    },
+    {
+        "merged": "C:\\Users\\Teejay\\AndroidStudioProjects\\ReplayAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "C:\\Users\\Teejay\\AndroidStudioProjects\\ReplayAndroidApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Teejay\\AndroidStudioProjects\\ReplayAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\neu_logo.png",
+        "source": "C:\\Users\\Teejay\\AndroidStudioProjects\\ReplayAndroidApp\\app\\src\\main\\res\\drawable\\neu_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Teejay\\AndroidStudioProjects\\ReplayAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\Teejay\\AndroidStudioProjects\\ReplayAndroidApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Teejay\\AndroidStudioProjects\\ReplayAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\analysis.png",
+        "source": "C:\\Users\\Teejay\\AndroidStudioProjects\\ReplayAndroidApp\\app\\src\\main\\res\\drawable\\analysis.png"
+    },
+    {
+        "merged": "C:\\Users\\Teejay\\AndroidStudioProjects\\ReplayAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\spotify.png",
+        "source": "C:\\Users\\Teejay\\AndroidStudioProjects\\ReplayAndroidApp\\app\\src\\main\\res\\drawable\\spotify.png"
+    },
+    {
+        "merged": "C:\\Users\\Teejay\\AndroidStudioProjects\\ReplayAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dropbox.png",
+        "source": "C:\\Users\\Teejay\\AndroidStudioProjects\\ReplayAndroidApp\\app\\src\\main\\res\\drawable\\dropbox.png"
+    },
+    {
+        "merged": "C:\\Users\\Teejay\\AndroidStudioProjects\\ReplayAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sbu_logo.png",
+        "source": "C:\\Users\\Teejay\\AndroidStudioProjects\\ReplayAndroidApp\\app\\src\\main\\res\\drawable\\sbu_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Teejay\\AndroidStudioProjects\\ReplayAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Teejay\\AndroidStudioProjects\\ReplayAndroidApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Teejay\\AndroidStudioProjects\\ReplayAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hangouts.png",
+        "source": "C:\\Users\\Teejay\\AndroidStudioProjects\\ReplayAndroidApp\\app\\src\\main\\res\\drawable\\hangouts.png"
+    },
+    {
+        "merged": "C:\\Users\\Teejay\\AndroidStudioProjects\\ReplayAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Teejay\\AndroidStudioProjects\\ReplayAndroidApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Teejay\\AndroidStudioProjects\\ReplayAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\youtube.png",
+        "source": "C:\\Users\\Teejay\\AndroidStudioProjects\\ReplayAndroidApp\\app\\src\\main\\res\\drawable\\youtube.png"
+    },
+    {
+        "merged": "C:\\Users\\Teejay\\AndroidStudioProjects\\ReplayAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Teejay\\AndroidStudioProjects\\ReplayAndroidApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    }
+]

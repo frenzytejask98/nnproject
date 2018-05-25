@@ -1,0 +1,52 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Replaced Jars with Dependencies:
+--------------------------------
+The importer recognized the following .jar files as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the .jar file in your project was of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the jar replacement in the import wizard and try again:
+
+android-support-v4.jar => com.android.support:support-v4:23.4.0
+android-support-v7-appcompat.jar => com.android.support:appcompat-v7:23.4.0
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app\src\main\AndroidManifest.xml
+* assets\ => app\src\main\assets\
+* jni\ => app\src\main\jni\
+* libs\acra-4.6.1.jar => app\libs\acra-4.6.1.jar
+* libs\android-support-v7-cardview.jar => app\libs\android-support-v7-cardview.jar
+* libs\android-support-v7-recyclerview.jar => app\libs\android-support-v7-recyclerview.jar
+* libs\armeabi\libandroidbridge.so => app\src\main\jniLibs\armeabi\libandroidbridge.so
+* libs\armeabi\libcharon.so => app\src\main\jniLibs\armeabi\libcharon.so
+* libs\armeabi\libcrypto.so => app\src\main\jniLibs\armeabi\libcrypto.so
+* libs\armeabi\libhydra.so => app\src\main\jniLibs\armeabi\libhydra.so
+* libs\armeabi\libipsec.so => app\src\main\jniLibs\armeabi\libipsec.so
+* libs\armeabi\libstrongswan.so => app\src\main\jniLibs\armeabi\libstrongswan.so
+* libs\nineoldandroids-2.4.0.jar => app\libs\nineoldandroids-2.4.0.jar
+* libs\pyrolite.jar => app\libs\pyrolite.jar
+* res\ => app\src\main\res\
+* src\ => app\src\main\java\
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

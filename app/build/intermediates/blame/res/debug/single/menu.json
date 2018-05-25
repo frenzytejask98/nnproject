@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Teejay\\AndroidStudioProjects\\ReplayAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\menu\\crash.xml",
+        "source": "C:\\Users\\Teejay\\AndroidStudioProjects\\ReplayAndroidApp\\app\\src\\main\\res\\menu\\crash.xml"
+    },
+    {
+        "merged": "C:\\Users\\Teejay\\AndroidStudioProjects\\ReplayAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\Teejay\\AndroidStudioProjects\\ReplayAndroidApp\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Teejay\\AndroidStudioProjects\\ReplayAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\menu\\entrance.xml",
+        "source": "C:\\Users\\Teejay\\AndroidStudioProjects\\ReplayAndroidApp\\app\\src\\main\\res\\menu\\entrance.xml"
+    },
+    {
+        "merged": "C:\\Users\\Teejay\\AndroidStudioProjects\\ReplayAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\menu\\replay.xml",
+        "source": "C:\\Users\\Teejay\\AndroidStudioProjects\\ReplayAndroidApp\\app\\src\\main\\res\\menu\\replay.xml"
+    }
+]
